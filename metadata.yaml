@@ -1,0 +1,38 @@
+_repo: Chantemerle-b-A-romance-of-the-Vendean-War_70103
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Broster, D. K. (Dorothy Kathleen)
+    alias: Broster, Dorothy Kathleen
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '43069'
+    url: http://www.gutenberg.org/2009/agents/43069
+    wikipedia: https://en.wikipedia.org/wiki/D._K._Broster
+  - agent_name: Taylor, G. Winifred (Gertrude Winifred)
+    aliases:
+    - Taylor, Gertrude Winifred
+    - Taylor, G. W.
+    birthdate: 1882
+    gutenberg_agent_id: '43070'
+    url: http://www.gutenberg.org/2009/agents/43070
+description: ''
+gutenberg_issued: '2023-02-21'
+identifiers:
+  gutenberg: '70103'
+language: en
+pgterms:marc905: 20220804104313broster
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: anonymous Project Gutenberg volunteers
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1911, reprint 1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcsh 'France -- History -- Wars of the Vendée, 1793-1832 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Chantemerle : $b A romance of the Vendean War'
+url: http://www.gutenberg.org/ebooks/70103
